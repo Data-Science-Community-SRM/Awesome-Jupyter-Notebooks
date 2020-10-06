@@ -2,41 +2,26 @@
 <a href="https://dscommunity.in">
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > <h4>
+	<h2 align="center"> Basic Machine Learning Algorithms  </h2>
+	<h4 align="center"> This Repository Consists of all Standard Machine Learning Algorithms.You Can Contribute to the respective folders As mentioned below.<h4>
 </p>
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
-## Preview
-- Add pictures or important highlights from the Project (if any)
-## Functionalities
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-
+## Machine Learning Algorithms
+- [ ]  Computer Vision
+- [ ]  Natural Language Processing
+- [ ]  Regression
+- [ ]  Support Vector Machines 
+- [ ]  Decision Trees & Random Forests
+- [ ]  K-Means
+- [ ]  K-Nearest Neighbors
 <br>
 
+<b>NOTE: Kindly Follow The [Readme.md](https://github.com/harshgeek4coder/Awesome-Jupyter-Notebooks/blob/master/README.md) file for further Instructions<b>
 
-## Instructions to run
-
-* Pre-requisites:
-	-  < insert pre-requisite >
-	-  < insert pre-requisite >
-
-* < directions to install > 
-```bash
-< insert code >
-```
-
-* < directions to execute >
-
-```bash
-< insert code >
-```
 
 ## Contributors
 
