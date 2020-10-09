@@ -3,14 +3,14 @@
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
 	<h2 align="center"> Computer Vision  </h2>
-	<h4 align="center"> This Repository Consists of all Computer Vision Based Projects Jupyter Notebooks.You Can Contribute to this folder with any notebook of have worked on and will be useful for others.<h4>
+	<h4 align="center"> This Repository Consists of all Computer Vision Based Projects Jupyter Notebooks.You Can Contribute to this folder with any notebook you have worked on and will be useful for others.<h4>
 </p>
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
-## Machine Learning Algorithms
+## Please Adhere to the Checklist Below Before Committing Your Pull Request :
 - [ ]  I agree that my content is solely for demonstration purpose and it is created by me.
 - [ ]  I agree that my content is not involved in any other 'Spammed' content or involved in any sort of copyright infringement issue.
 - [ ]  I agree to to the instructions specified in this [Readme](https://github.com/Data-Science-Community-SRM/Awesome-Jupyter-Notebooks/blob/master/Basic%20Machine%20Learning%20Algorithms/README.md)
