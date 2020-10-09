@@ -2,41 +2,24 @@
 <a href="https://dscommunity.in">
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > <h4>
+	<h2 align="center"> Support Vector Machines [SVM]  </h2>
+	<h4 align="center"> This Repository Consists of all Support Vector Machines Algorithm [SVM] Based Projects Jupyter Notebooks.You Can Contribute to this folder with any notebook you have worked on and will be useful for others.<h4>
 </p>
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
-## Preview
-- Add pictures or important highlights from the Project (if any)
-## Functionalities
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-
+## Please Adhere to the Checklist Below Before Committing Your Pull Request :
+- [ ]  I agree that my content is solely for demonstration purpose and it is created by me.
+- [ ]  I agree that my content is not involved in any other 'Spammed' content or involved in any sort of copyright infringement issue.
+- [ ]  I agree to to the instructions specified in this [Readme](https://github.com/Data-Science-Community-SRM/Awesome-Jupyter-Notebooks/blob/master/Basic%20Machine%20Learning%20Algorithms/README.md)
+- [ ]  I agree to have followed all the instructions specified in HacktoberFest 2020.
+- [ ]  I agree to upload my content in good faith of keeping up with this Event.
 <br>
 
+<b>NOTE: Kindly Follow The [Readme.md](https://github.com/harshgeek4coder/Awesome-Jupyter-Notebooks/blob/master/README.md) file for further Instructions<b>
 
-## Instructions to run
-
-* Pre-requisites:
-	-  < insert pre-requisite >
-	-  < insert pre-requisite >
-
-* < directions to install > 
-```bash
-< insert code >
-```
-
-* < directions to execute >
-
-```bash
-< insert code >
-```
 
 ## Contributors
 
@@ -100,4 +83,3 @@ John Doe
 <p align="center">
 	Made with :heart: by <a href="https://dscommunity.in">DS Community SRM</a>
 </p>
-
